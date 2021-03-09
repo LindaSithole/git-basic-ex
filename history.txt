@@ -1,0 +1,27 @@
+    1  cd/home/user/first_project
+    2  mkdir firstProject
+    3  mkdir git-basic-exersises
+    4  cd
+    5  cd\ git-basic-exersices
+    6  mkdir git-basic-exercises
+    7  cd git-basic-exercises/
+    8  Is -a
+    9  Is -a git-basic-exersices
+   10  ls 
+   11  mkdir git-basic-exersises
+   12  ls
+   13  mkdir Git-basic-exersises
+   14  cd git-basic-ex
+   15  git status
+   16  cd git-basic-ex
+   17  git status
+   18  git add .
+   19  git status
+   20  cat milkshakes.md
+   21  git commit -m "added Initial flavours"
+   22  git log
+   23  git checkout master
+   24  git status
+   25  git checkout -b history
+   26  git branch
+   27  history > history.txt
